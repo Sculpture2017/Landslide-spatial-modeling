@@ -17,10 +17,10 @@ References:
 
 Kirschbaum, D., Stanley, T., Zhou, Y., 2015. Spatial and temporal analysis of a global landslide catalog. Geomorphology 249, 4–15. https://doi.org/10.1016/j.geomorph.2015.03.016
 
-Jia, G., Alvioli, M., Gariano, S., Guzzetti, F., Tang, Q., and Marchesini, I.: A Global Landslide Non-Susceptibility Map: variation and applicability, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-15239, https://doi.org/10.5194/egusphere-egu2020-15239, 2020
+Jia, G., Alvioli, M., Gariano, S., Marchesini, I., Guzzetti, F., Tang, Q., 2021. A Global Landslide Non-Susceptibility Map. Geomorphology 389, 107804. https://doi.org/10.1016/j.geomorph.2021.107804
 
-3.zonal_stats.py was used to overlay global landslide non-susceptibility map with continents, climate zones, flood plains, susceptibility maps, populatiion and builtup maps. Summarized information was availalbe in Jia's PhD thesis, which is under review now. A journal paper is under deep review in Geomorphology. More details will be updated later utill the paper and thesis are available.
+3.zonal_stats.py was used to overlay global landslide non-susceptibility map with continents, climate zones, flood plains, susceptibility maps, populatiion and builtup maps. Summarized information was availalbe in Jia's PhD thesis, which is under review now. A journal paper is available as follows.
 
 References:
 
-Jia, G., Alvioli, M., Gariano, S., Guzzetti, F., Tang, Q., and Marchesini, I.: A Global Landslide Non-Susceptibility Map: variation and applicability, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-15239, https://doi.org/10.5194/egusphere-egu2020-15239, 2020
+Jia, G., Alvioli, M., Gariano, S., Marchesini, I., Guzzetti, F., Tang, Q., 2021. A Global Landslide Non-Susceptibility Map. Geomorphology 389, 107804. https://doi.org/10.1016/j.geomorph.2021.107804
